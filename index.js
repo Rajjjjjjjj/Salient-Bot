@@ -428,4 +428,4 @@ function channelLock(msg, channelsMutedJson) {
     }
 }
 
-bot.login(token);
+bot.login(process.env.token);
