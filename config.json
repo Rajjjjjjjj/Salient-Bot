@@ -1,0 +1,46 @@
+{
+    "prefix" : ".",
+    "adminRole" : "855968443181039636",
+    "doLogs" : true,
+
+    
+    "channelMuteMsgColor" : "#ff4747",
+
+
+    "botStatus" : "Want to buy me go to #salient-bot",
+
+
+    "kickCmd" : "kick",
+    "banCmd" : "ban",
+    "purgeCmd" : "del",
+    "muteChannelCmd" : "channelmute",
+    "unmuteChannelCmd" : "channelunmute",
+    "muteUserCmd" : "mute",
+    "embedCmd" : "embed",
+    "changeStatusCmd" : "setstatus",
+
+    
+    "useStatus" : true,
+
+
+    "logChannelID" : "855959543753474078",
+    "logColor" : "#ff4747",
+
+    "msgLogs" : true,
+    "delMsgLogs" : true,
+    "editMsgLogs" : true,
+    "addChannelLogs" : true,
+    "editChannelLogs" : true,
+    "removeChannelLogs" : true,
+    "addRoleLogs" : true,
+    "editRoleLogs" : true,
+    "removeRoleLogs" : true,
+    "joinLogs" : true,
+    "leaveLogs" : true,
+
+    "welcomeMsg" : true,
+    "welcomeChannel" : "855957313339654154",
+
+    "leaveMsg" : true,
+    "leaveChannel" : "855957337083609098"
+}
